@@ -64,7 +64,7 @@ Go to project directory and run (make sure you have node installed first)
 
 ## Preview
 
-🚀 [Live preview](https://tailwind-dashboard-template-dashwind.vercel.app/)
+🚀 [Live preview](https://dashboard-react-liart.vercel.app/login)
 
 
 ## Roadmap
